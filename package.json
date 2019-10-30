@@ -1,5 +1,6 @@
 {
 	"name": "ramda-doc",
+	"publisher" : "vishwanatharondekar",
 	"displayName": "ramda-doc",
 	"description": "Takes you to ramda docs for the function on its website",
 	"version": "0.0.1",
